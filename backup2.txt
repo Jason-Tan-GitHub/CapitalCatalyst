@@ -1,0 +1,43 @@
+h2{
+    font-family: "Oswald", sans-serif;
+    font-size: 3vw;
+    font-style: normal;
+}
+
+.border{
+    position: relative;
+    display: inline-block;
+    border-radius: 100px;
+    border: 1px solid black;
+    padding: 2%;
+    width: 30vw;
+    align-items: center;
+    margin: 5%;
+    margin-top: 18%;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    background-image: url("image/Banner 1.svg");
+}
+
+/*Overlay text*/
+
+.ot5 {
+    position: absolute;
+    text-align: left;
+    margin-left: 340px;
+    top: 199%; 
+    left: 43.7%; 
+}
+
+.ot6 {
+    position: absolute;
+    text-align: left;
+    margin-left: 22%;
+    margin-right: 20px;
+    top: 207%; 
+    left: 48.5%; 
+    padding: 10px 20px; 
+    font-size: 1.8vw; 
+}
